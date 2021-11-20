@@ -8,4 +8,4 @@ Use through command `tf.keras.models.load_model()`
 
 ## Model Accuracy
 
-Acurracy: [[still pending]]
+Acurracy: 70% \[Set By Callback\]
