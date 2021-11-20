@@ -8,4 +8,4 @@ Use through command `tf.keras.models.load_model()`
 
 ## Model Accuracy
 
-Acurracy: 70% \[Set By Callback\]
+Acurracy: 95% \[Set By Callback\]
